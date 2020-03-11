@@ -5,7 +5,6 @@
 # # Energy minimization is done in minimize-3d.sh
 # # Description of flags:
 # # -t Input is a single molecule
-# # -h Add hydrogens
 # # -c Center at (0,0,0)
 
 idir=$1
