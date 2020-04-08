@@ -2,7 +2,6 @@
 
 # This scrip uses Open Babel to convert all .sdf files in a directory to 3D .mol2 files (single conformer)
 # # The computed 3D coordinates are determined by bond order 
-# # Energy minimization is done in minimize-3d.sh
 # # Description of flags:
 # # -t Input is a single molecule
 # # -c Center at (0,0,0)
