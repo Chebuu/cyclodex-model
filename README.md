@@ -1,3 +1,3 @@
 ![](rendering.gif)
 
-Rendered frames of a pleasantly misleading system in implicit solvent.
+CDT + Epidiolex complex in implicit solvent.
